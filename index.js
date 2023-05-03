@@ -12,7 +12,7 @@ app.get("/data", (req, res) => {
 });
 app.get("/data/:id", (req, res) => {
   const id = req.params.id;
-  const singleData = data.find((d) => (d.id = id));
+  const singleData = data.find((d) => d.id == id);
   res.send(singleData);
 });
 

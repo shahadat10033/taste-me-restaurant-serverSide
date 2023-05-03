@@ -10,7 +10,7 @@
       "recipes": [
         {
           "recipeName": "Shorshe Ilish",
-          "recipePhoto": "https://example.com/shorshe-ilish.jpg",
+          "recipePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxVsapJCtKl2ZHMSLPWAHuiKKaZaaPtcTCQ&usqp=CAU",
           "ingredients": [
             "Hilsa fish",
             "Mustard oil",
@@ -23,7 +23,7 @@
         },
         {
           "recipeName": "Chingri Malai Curry",
-          "recipePhoto": "https://example.com/chingri-malai-curry.jpg",
+          "recipePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7BP1RpZJ7U0Wluc3AixaUB75x2kAhSK7ow&usqp=CAU",
           "ingredients": [
             "Prawns",
             "Coconut milk",
@@ -36,7 +36,7 @@
         },
         {
           "recipeName": "Bhapa Doi",
-          "recipePhoto": "https://example.com/bhapa-doi.jpg",
+          "recipePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMGxE_kI7LFJHOjm0CG5R4LNkRo32kOH2V4Q&usqp=CAU",
           "ingredients": [
             "Yogurt",
             "Condensed milk",
@@ -60,7 +60,7 @@
       "recipes": [
         {
           "recipeName": "Bengali Sushi",
-          "recipePhoto": "https://example.com/bengali-sushi.jpg",
+          "recipePhoto": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/720px-Sushi_platter.jpg",
           "ingredients": [
             "Sushi rice",
             "Nori sheets",
@@ -73,7 +73,7 @@
         },
         {
         "recipeName": "Fish Tikka Masala",
-        "recipePhoto": "https://example.com/fish-tikka-masala.jpg",
+        "recipePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ37O2olChYfTXU5QUKj_OyjE1RYVo1kgMqwQ&usqp=CAU",
         "ingredients": [
         "Fish fillets",
         "Yogurt",
