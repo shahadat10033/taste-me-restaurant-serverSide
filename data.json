@@ -1,0 +1,292 @@
+[
+    {
+      "id": 1,
+      "chefName": "Masuda Begum",
+      "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpnI2VjfYQ4NgxUORZy2w8llO-1RruvF42QQ&usqp=CAU",
+      "yearsOfExperience": 10,
+      "shortDescription": "Masuda specializes in traditional Bengali cuisine.",
+      "numberOfRecipes": 20,
+      "likes": 1000,
+      "recipes": [
+        {
+          "recipeName": "Shorshe Ilish",
+          "recipePhoto": "https://example.com/shorshe-ilish.jpg",
+          "ingredients": [
+            "Hilsa fish",
+            "Mustard oil",
+            "Mustard seeds",
+            "Green chilies",
+            "Turmeric powder"
+          ],
+          "ratings": 4.8,
+          "cookingMethod": "1. Clean and marinate the fish in salt and turmeric powder. 2. Heat mustard oil in a pan and add mustard seeds and green chilies. 3. Add the marinated fish and cook for a few minutes. 4. Add water, mustard paste and salt, and cook until the fish is done. 5. Serve hot with steamed rice."
+        },
+        {
+          "recipeName": "Chingri Malai Curry",
+          "recipePhoto": "https://example.com/chingri-malai-curry.jpg",
+          "ingredients": [
+            "Prawns",
+            "Coconut milk",
+            "Green chilies",
+            "Ginger paste",
+            "Turmeric powder"
+          ],
+          "ratings": 4.5,
+          "cookingMethod": "1. Clean and devein the prawns. 2. Heat oil in a pan and add green chilies and ginger paste. 3. Add the prawns and cook for a few minutes. 4. Add coconut milk, turmeric powder, and salt. 5. Cook until the prawns are done. 6. Serve hot with steamed rice."
+        },
+        {
+          "recipeName": "Bhapa Doi",
+          "recipePhoto": "https://example.com/bhapa-doi.jpg",
+          "ingredients": [
+            "Yogurt",
+            "Condensed milk",
+            "Sugar",
+            "Cardamom powder",
+            "Rose water"
+          ],
+          "ratings": 4.2,
+          "cookingMethod": "1. Mix together yogurt, condensed milk, sugar, cardamom powder, and rose water. 2. Pour the mixture into a baking dish and cover it with foil. 3. Bake in a preheated oven for 30-40 minutes. 4. Chill in the refrigerator for a few hours. 5. Serve cold."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chefName": "Kabir Ahmed",
+      "chefPicture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",
+      "yearsOfExperience": 8,
+      "shortDescription": "Kabir is a master of fusion cuisine, combining traditional Bengali flavors with modern techniques.",
+      "numberOfRecipes": 30,
+      "likes": 1500,
+      "recipes": [
+        {
+          "recipeName": "Bengali Sushi",
+          "recipePhoto": "https://example.com/bengali-sushi.jpg",
+          "ingredients": [
+            "Sushi rice",
+            "Nori sheets",
+            "Cucumber",
+            "Carrot",
+            "Pickled mango"
+          ],
+          "ratings": 4.6,
+          "cookingMethod": "1. Cook sushi rice and season with rice vinegar and sugar. 2.Lay a nori sheet on a sushi mat and spread rice on top. 3. Add sliced cucumber, carrot, and pickled mango. 4. Roll the sushi and slice into pieces. 5. Serve with soy sauce and wasabi."
+        },
+        {
+        "recipeName": "Fish Tikka Masala",
+        "recipePhoto": "https://example.com/fish-tikka-masala.jpg",
+        "ingredients": [
+        "Fish fillets",
+        "Yogurt",
+        "Ginger paste",
+        "Garlic paste",
+        "Tomatoes"
+        ],
+        "ratings": 4.3,
+        "cookingMethod": "1. Marinate fish fillets in yogurt, ginger paste, and garlic paste for 30 minutes. 2. Grill the fish fillets until cooked. 3. Heat oil in a pan and add tomatoes, ginger paste, garlic paste, and spices. 4. Cook until the tomatoes are soft. 5. Add the grilled fish and cook for a few minutes. 6. Serve hot with naan or rice."
+        },
+        {
+        "recipeName": "Mishti Doi Cheesecake",
+        "recipePhoto": "https://example.com/mishti-doi-cheesecake.jpg",
+        "ingredients": [
+        "Cream cheese",
+        "Mishti doi",
+        "Graham cracker crumbs",
+        "Butter",
+        "Sugar"
+        ],
+        "ratings": 4.5,
+        "cookingMethod": "1. Mix graham cracker crumbs, butter, and sugar and press into a baking dish. 2. Bake in a preheated oven for 10-15 minutes. 3. Mix cream cheese and mishti doi until smooth. 4. Pour the mixture over the crust and chill in the refrigerator for a few hours. 5. Serve cold."
+        }
+        ]
+        },
+        {    "id": 3,    "chefName": "Munira Islam",    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV-UxBLc5HBktTaM4V77NEMPvXC9uXzTLQKQ&usqp=CAU",    "yearsOfExperience": 10,    "shortDescription": "Munira is a skilled chef who specializes in creating flavorful and healthy dishes.",    "numberOfRecipes": 50,    "likes": 5000,    "recipes": [      {        "recipeName": "Chingri Malai Curry",        "recipePhoto": "https://example.com/chingri-malai-curry.jpg",        "ingredients": [          "Shrimp",          "Coconut milk",          "Onion",          "Garlic",          "Turmeric"        ],
+        "ratings": 4.8,
+        "cookingMethod": "1. Heat oil in a pan and add onions and garlic. 2. Add turmeric and cook for a minute. 3. Add shrimp and cook until pink. 4. Add coconut milk and cook until the sauce thickens. 5. Serve hot with rice."
+      },
+      {
+        "recipeName": "Bangladeshi Beef Curry",
+        "recipePhoto": "https://example.com/beef-curry.jpg",
+        "ingredients": [
+          "Beef",
+          "Onion",
+          "Ginger",
+          "Garlic",
+          "Tomatoes"
+        ],
+        "ratings": 4.5,
+        "cookingMethod": "1. Heat oil in a pan and add onions, ginger, and garlic. 2. Add beef and cook until brown. 3. Add tomatoes and spices. 4. Cook until the beef is tender. 5. Serve hot with naan or rice."
+      },
+      {
+        "recipeName": "Shorshe Ilish",
+        "recipePhoto": "https://example.com/shorshe-ilish.jpg",
+        "ingredients": [
+          "Hilsa fish",
+          "Mustard paste",
+          "Turmeric",
+          "Green chilies",
+          "Onion"
+        ],
+        "ratings": 4.9,
+        "cookingMethod": "1. Heat oil in a pan and add onions and green chilies. 2. Add turmeric and mustard paste and cook for a minute. 3. Add hilsa fish and cook until done. 4. Serve hot with steamed rice."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefName": "Nadia Hussain",
+    "chefPicture": "data:image/jpeg;base64,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",
+    "yearsOfExperience": 12,
+    "shortDescription": "Nadia is a versatile chef who is passionate about creating unique and delicious dishes.",
+    "numberOfRecipes": 60,
+    "likes": 7000,
+    "recipes": [
+      {
+        "recipeName": "Biryani",
+        "recipePhoto": "https://example.com/biryani.jpg",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Onion",
+          "Ginger",
+          "Garlic"
+        ],
+        "ratings": 4.7,
+        "cookingMethod": "1. Soak the rice in water for 30 minutes. 2. Cook the chicken with onions, ginger, and garlic. 3. Add the rice and cook until done. 4. Serve hot with raita and papadum."
+      },
+      {
+        "recipeName": "Fish Fry",
+        "recipePhoto": "https://example.com/fish-fry.jpg",
+        "ingredients": [
+          "Fish fillet",
+          "Lemon",
+          "Salt",
+          "Turmeric",
+          "Oil"
+        ],
+        "ratings": 4.6,
+        "cookingMethod": "1. Marinate the fish fillet with lemon, salt, and turmeric. 2. Heat oil in a pan and fry the fish until golden brown. 3. Serve hot with salad and mint chutney."
+      },
+      {
+        "recipeName": "Chapli Kebab",
+        "recipePhoto": "https://example.com/chapli-kebab.jpg",
+        "ingredients": [
+          "Beef mince",
+          "Onion",
+          "Tomatoes",
+          "Green chilies",
+          "Spices"
+        ],
+        "ratings": 4.9,
+        "cookingMethod": "1. Mix the beef mince with onions, tomatoes, green chilies, and spices. 2. Shape into patties and fry in oil. 3. Serve hot with naan or pita bread."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": "Imtiaz Ahmed",
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEZBJGyo-Nh5mcgsbzMcq5cSRqaZlUg51p6g&usqp=CAU",
+    "yearsOfExperience": 15,
+    "shortDescription": "Imtiaz is a master chef known for his fusion of Bangladeshi and Middle Eastern cuisines.",
+    "numberOfRecipes": 75,
+    "likes": 10000,
+    "recipes": [
+      {
+        "recipeName": "Dhaka-style biryani",
+        "recipePhoto": "https://example.com/dhaka-biryani.jpg",
+        "ingredients": [
+          "Basmati rice",
+          "Chicken",
+          "Potatoes",
+          "Yogurt",
+          "Spices"
+        ],
+        "ratings": 4.7,
+        "cookingMethod": "1. Marinate chicken with yogurt and spices. 2. Fry potatoes and set aside. 3. Cook rice with spices. 4. Layer rice, chicken, and potatoes in a pot. 5. Cook on low heat until the biryani is fragrant and the chicken is cooked. 6. Serve hot with raita and chutney."
+      },
+      {
+        "recipeName": "Kabuli pulao",
+        "recipePhoto": "https://example.com/kabuli-pulao.jpg",
+        "ingredients": [
+          "Basmati rice",
+          "Lamb",
+          "Carrots",
+          "Raisins",
+          "Spices"
+        ],
+        "ratings": 4.9,
+        "cookingMethod": "1. Fry onions and set aside. 2. Brown lamb and set aside. 3. Cook rice with spices. 4. Layer rice, lamb, carrots, raisins, and onions in a pot. 5. Cook on low heat until the pulao is fragrant and the lamb is tender. 6. Serve hot with salad."
+      },
+      {
+        "recipeName": "Falafel wrap",
+        "recipePhoto": "https://example.com/falafel-wrap.jpg",
+        "ingredients": [
+          "Falafel",
+          "Pita bread",
+          "Hummus",
+          "Tomatoes",
+          "Cucumber"
+        ],
+        "ratings": 4.5,
+        "cookingMethod": "1. Fry falafel until crispy. 2. Warm pita bread in the oven. 3. Spread hummus on the pita bread. 4. Add falafel, tomatoes, and cucumber. 5. Roll the pita bread tightly. 6. Serve hot with fries and sauce."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Nurul Islam",
+    "chefPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoH6gBDJoNVE3UgnuZtypzvElk8W2xBQhJLg&usqp=CAU",
+    "yearsOfExperience": 15,
+    "shortDescription": "Nurul is a passionate chef who loves to experiment with flavors and create unique dishes that surprise and delight his customers.",
+    "numberOfRecipes": 80,
+    "likes": 12000,
+    "recipes": [
+      {
+        "recipeName": "Chapli Kabab",
+        "recipePhoto": "https://example.com/chapli-kabab.jpg",
+        "ingredients": [
+          "Ground beef",
+          "Onion",
+          "Tomato",
+          "Green chilies",
+          "Coriander",
+          "Cumin",
+          "Pomegranate seeds"
+        ],
+        "ratings": 4.7,
+        "cookingMethod": "1. Mix ground beef with onion, tomato, green chilies, coriander, cumin, and pomegranate seeds. 2. Make small flat kababs and fry until brown. 3. Serve hot with chutney and naan."
+      },
+      {
+        "recipeName": "Bengali Style Mutton Curry",
+        "recipePhoto": "https://example.com/mutton-curry.jpg",
+        "ingredients": [
+          "Mutton",
+          "Onion",
+          "Ginger",
+          "Garlic",
+          "Yogurt",
+          "Turmeric",
+          "Garam Masala"
+        ],
+        "ratings": 4.6,
+        "cookingMethod": "1. Heat oil in a pan and add onions, ginger, and garlic. 2. Add mutton and cook until brown. 3. Add yogurt, turmeric, and garam masala. 4. Cook until the mutton is tender. 5. Serve hot with naan or rice."
+      },
+      {
+        "recipeName": "Shrimp Pulao",
+        "recipePhoto": "https://example.com/shrimp-pulao.jpg",
+        "ingredients": [
+          "Shrimp",
+          "Basmati rice",
+          "Onion",
+          "Ginger",
+          "Garlic",
+          "Cumin",
+          "Cardamom",
+          "Cloves"
+        ],
+        "ratings": 4.8,
+        "cookingMethod": "1. Heat oil in a pan and add onions, ginger, and garlic. 2. Add cumin, cardamom, and cloves and cook for a minute. 3. Add shrimp and cook until pink. 4. Add rice and water and cook until the rice is done. 5. Serve hot with raita."
+      }
+    ]
+  }]
+  
+        
